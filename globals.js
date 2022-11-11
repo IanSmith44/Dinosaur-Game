@@ -2,9 +2,9 @@ let score = 0;
 
 const GLOBALS = {
   GRAVITY: 3,
-  JUMP_STRENGTH: -30,
+  JUMP_STRENGTH: -25,
   DRAG: 3,
-  SPAWN_RATE: 100,
+  SPAWN_RATE: 40,
   ACCELERATION: 1 / 1000,
   GROUND_H: 90,
   PLAYER_H: 30,
