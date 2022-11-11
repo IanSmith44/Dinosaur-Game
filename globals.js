@@ -39,7 +39,7 @@ function showCollisionBox(box) {
 }
 
 function updateScore() {
-  score += 1;
+  score += 7;
   fill(GLOBALS.COLORS.SCORE);
   stroke(GLOBALS.COLORS.SCORE);
   strokeWeight(1);
